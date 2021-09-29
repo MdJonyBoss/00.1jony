@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.top{
+    text-align: center;
+    color: aliceblue;
+
+}
+.nav{
+    color: rgb(255, 0, 0);
+}
+p{
+    margin-bottom: 0;
+}
+
+.bgimage {
+    width:100%;
+    height:500px;
+    background: url('https://images.unsplash.com/photo-1438109491414-7198515b166b?q=80&fm=jpg&s=cbdabf7a79c087a0b060670a6d79726c');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-attachment: fixed;
+    color: rgb(250, 3, 15);
+    text-align: center;
+  }
+  .bgimage h5 {
+      margin-top: 4rem;
+    color:white;
+    text-shadow:2px 2px #333;
+    font-size: 30px;
+  }
+  .bgimage p{
+      font-size: 20px;
+      text-shadow:2px 2px #333;
+  }
+  .cantanar{
+      display: flex;
+      float: left;
+margin-left: 04rem;
+
+  }
+  .cantanar img{
+      border-radius: 60%;
+      width: 40%;
+      text-align: center;
+      margin-left: 4.5rem;
+  }
+  .row{
+text-align: center;
+
+  }
+  .card{
+    background-color: aqua;
+  }
+  .carousel-item{
+    
+  }
+  .oo img{
+width: 100%;
+  }
+.img-fluid{
+  width: 40%;
+}
+.hero1{
+  margin-left: 47rem;
+  margin-top: -20rem;
+
+}
+.contananr{
+
+}
